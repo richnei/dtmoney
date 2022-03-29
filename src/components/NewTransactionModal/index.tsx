@@ -98,7 +98,7 @@ export function NewTransactionModal({ isOpen, onRequestClose }: NewTransactionMo
 
 
 
-            </Container>
+            </Container> 
         </Modal >
     );
 }
